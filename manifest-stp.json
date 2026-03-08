@@ -1,0 +1,26 @@
+{
+  "name": "STP Viewer",
+  "short_name": "STP View",
+  "description": "Visor 3D de archivos STEP e IGES con OpenCascade",
+  "start_url": "./stp_viewer.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "icons": [
+    {
+      "src": "icon-stp-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-stp-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "es"
+}
